@@ -1,5 +1,5 @@
 # Author: OMKAR PATHAK
-# This program prints the entered message
+# This program prints the entered message as like it is
 
 def justPrint(text):
     '''This function prints the text passed as argument to this function'''
